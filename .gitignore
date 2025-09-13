@@ -1,0 +1,52 @@
+# Automatically created by Flutter.
+# Edit this file, but make sure to include values from flutter.gitignore
+
+# Common Flutter project files and folders
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Flutter/
+linux/flutter/
+macos/Flutter/
+windows/flutter/
+build/
+
+# Intellij related files
+.idea/
+*.iml
+
+# Android related files
+*.apk
+*.aar
+*.apks
+
+# Gradle related files
+*.gradle
+*.keystore
+
+# Logs
+*.log
+
+# Crash reports
+crash_reports/
+
+# Temporary files
+**/tmp/
+**/.DS_Store
+**/.fuse_hidden*
+
+# Flutter coverage data
+coverage/
+
+# Generated files and directories
+lib/generated_plugin_registrant.dart
+
+#Secrets
+secrets.json
